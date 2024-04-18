@@ -18,4 +18,4 @@ The dataset has 3 files as explained below:
 The data is about whether a client has payment difficulties.
 *  'previous_application.csv' contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 *   'columns_description.csv' is data dictionary which describes the meaning of the variables.
-  
+** Dataset can be downloaded from this link : https://drive.google.com/drive/u/0/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
